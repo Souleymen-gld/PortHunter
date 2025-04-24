@@ -30,21 +30,6 @@ Exécutez le script avec Python :
 python port_scanner.py
 Le programme vous demandera d'entrer l'adresse IP ou le domaine à scanner, ainsi que la plage de ports que vous souhaitez analyser.
 
-Exemple :
-
-Entrez l'adresse IP ou le domaine à scanner : 192.168.1.1
-Entrez le port de départ : 20
-Entrez le port de fin : 1024
-Le programme affichera les ports ouverts trouvés.
-
-Exemple de sortie :
-
-Modifier
-Port 22 est ouvert
-Port 80 est ouvert
-Port 443 est ouvert
-
-Ports ouverts trouvés : [22, 80, 443]
 Exemple d'exécution
 
 Voici un exemple d'exécution du programme :
@@ -57,6 +42,7 @@ Port 80 est ouvert
 Port 443 est ouvert
 
 Ports ouverts trouvés : [22, 80, 443]
+
 Avertissements
 Ce programme est destiné à être utilisé dans un but éthique et responsable.
 
